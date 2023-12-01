@@ -7,8 +7,8 @@
 
 ![Proficient](https://img.shields.io/badge/Proficient:-blue)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python&label=)
-![JavaScript](https://img.shields.io/badge/JavasSript-000?style=flat&logo=JavaScript&label=)
-![TypeScript](https://img.shields.io/badge/JavasSript-000?style=flat&logo=TypeScript&label=)
+![JavaScript](https://img.shields.io/badge/JavaSript-000?style=flat&logo=JavaScript&label=)
+![TypeScript](https://img.shields.io/badge/TypeSript-000?style=flat&logo=TypeScript&label=)
 
 ![Intermediate](https://img.shields.io/badge/Intermediate:-green)
 ![Java](https://img.shields.io/badge/Java-000?style=flat&logo=java)
